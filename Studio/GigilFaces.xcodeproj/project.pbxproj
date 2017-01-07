@@ -729,7 +729,7 @@
 				ORGANIZATIONNAME = nicole;
 				TargetAttributes = {
 					BCA121C919A74E20005CC84D = {
-						DevelopmentTeam = 9964T2D9BH;
+						DevelopmentTeam = JQNK74493B;
 					};
 					BCA121EA19A74E20005CC84D = {
 						TestTargetID = BCA121C919A74E20005CC84D;
@@ -982,9 +982,12 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = JQNK74493B;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GigilFaces/GigilFaces-Prefix.pch";
 				INFOPLIST_FILE = "GigilFaces/GigilFaces-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.studio.padpaint.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -998,9 +1001,12 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = JQNK74493B;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GigilFaces/GigilFaces-Prefix.pch";
 				INFOPLIST_FILE = "GigilFaces/GigilFaces-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.studio.padpaint.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
